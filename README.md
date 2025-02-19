@@ -1,4 +1,4 @@
-This is a learning management project done with PHP. It follows an MVC structure. Users can register, login and edit their profiles. There are language courses that they can learn from. Users can also become friends with eachother and challenge one another in timed quizzes. There is a global leaderboard to keep track of points.
+This is a learning management project done with PHP. It follows a MVC structure. Users can register, login and edit their profiles. There are language courses that they can learn from. Users can also become friends with eachother and challenge one another in timed quizzes. There is a global leaderboard to keep track of points.
 
 To setup:
 -Install start XAMPP
